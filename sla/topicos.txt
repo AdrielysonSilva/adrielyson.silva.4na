@@ -3,3 +3,7 @@ regressao linear
 entropia!!
 
 https://cobalt-blarney-8b3.notion.site/Machine-Learning-CHATBOT-MLC-160256ceaea780baad13f65bc12d3393
+
+ML FLOW
+
+lm studio
